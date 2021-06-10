@@ -1,0 +1,30 @@
+body {
+  background-color: grey;
+}
+
+.header {
+  margin-bottom: 15px;
+}
+
+#sidebar section, #main-section section {
+  background-color: white;
+  padding: 25px;
+  margin-bottom: 25px;
+}
+
+.p {
+  margin: 15px 0px;
+}
+
+#left-section {
+  margin-left: 15px;
+}
+
+#right-section {
+  margin-right: 15px;
+}
+
+img {
+  max-height: 100%;
+  max-width: 100%;
+}
